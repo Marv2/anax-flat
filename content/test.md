@@ -10,10 +10,30 @@ views:
                 route: block/byline
 ...
 
-
-Test
+Rubriknivå 1
 ==============================================
 
-En testsida
+Testsida för att skriva Markdown
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
+Rubriknivå 2
+----------------------------------------------
+
+Ett helt vanligt stycke med brödtext. För att sriva ett vanligt stycke behövs räcker det med blankrad för att Markdown ska förstå intentionen och skapa ett nytt stycke.
+
+### Rubriknivå 3
+
+> Ett blockcitat med sitt första stycke.
+>
+> Andra stycket i citatet
+>
+> ## H2 i ett blockcitat.
+
+Vissa ord är *kursiva* med asterisker.
+Några ord är skrivna i _fet stil_ med understreck.
+
+
+### Listor
+
+*   Nötter
+*   Kaffe
+*   Kantareller

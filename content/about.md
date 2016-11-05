@@ -1,10 +1,34 @@
-About this site
+Om webbplatsen och kursen design
 ==============================================
 
-The primary focus of this site is to:
+Webbplatsen är en del av kursen design på Blekinge Tekniska Högskola och används för kursens uppgifter.
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+[Webbplatsens GitHub repro](https://github.com/Marv2/anax-flat)
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
 
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+Kursen design
+----------------------------------------------
+
+Kursen är lär webbprogrammerare att kommunicera med formgivare och användbarhetsdesigners och att tekniskt förbereda webbplatser för design och användbarhet.
+
+I kursen använder vi ett ramverk för att skapa webbplatsen och vi fyller sedan på med innehåll främst genom Markdown, men HTML och JavaScript fungerar också.
+
+![Peter Moreville Facets of the user experience](../htdocs/img/peter-moreville-sm.png?w=200)
+
+*Peter Moreville's Facets of the user experience*
+
+Kursens innehåll
+----------------------------------------------
+
+
+*   Färglära och färgsättning av en webbplats
+*   Typografi
+*   Lagar och regler kring webbplatser
+*   Anpassa webbplats för funktionshindrade
+*   Grid-baserad layout, horisontell och vertikal
+*   CSS-konstruktioner för style med CSS/LESS/SASS
+*   Bygga tema till webbplats
+*   Använda PHP-ramverk för att skapa och designa webbplats
+*   Sökmotoroptimering
+
+Mer information om kursen [dbwebb kurs design](http://dbwebb.se/design).

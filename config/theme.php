@@ -41,7 +41,8 @@ return [
             "template" => "default/image",
             "data" => [
                 "class" => "logo-1",
-                "src" => "img/favicon/favicon_128x128.png",
+                //"src" => "img/favicon/favicon_128x128.png",
+                "src" => "img/logo.png",
                 "alt" => "Logo",
             ],
             "sort" => 1
@@ -51,8 +52,9 @@ return [
             "template" => "default/header",
             "data" => [
                 "homeLink"      => "",
-                "siteLogoText"  => "Anax Flat",
-                "siteLogoTextIcon" => "img/favicon/favicon_40x40.png",
+                "siteLogoText"  => "Marv",
+                //"siteLogoTextIcon" => "img/favicon/favicon_40x40.png",
+                "siteLogoTextIcon" => "img/logo-small.png",
                 "siteLogoTextIconAlt" => "Small logo",
                 "siteLogo"      => null, //"img/anax.png",
                 "siteLogoAlt"   => null, //"Anax Logo",
@@ -84,13 +86,8 @@ return [
                     [
                         "contentRoute" => "block/footer-col-1",
                     ],
-                    /*
                     [
                         "contentRoute" => "block/footer-col-2",
-                    ],
-                    */
-                    [
-                        "contentRoute" => "block/byline",
                     ],
                     [
                         "contentRoute" => "block/footer-col-3",

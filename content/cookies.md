@@ -1,4 +1,4 @@
-About cookies
+Om kakor
 ==============================================
 
-What about cookies?
+Kakor är bra på webben.

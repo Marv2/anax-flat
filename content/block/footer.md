@@ -1,5 +1,4 @@
-Copyright &copy; 2012-2016 [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se)
 
-* [License](license)
+* [Licens](license)
 * [Cookies](cookies)
-* [Contact](contact)
+* [Kontakt](contact)
