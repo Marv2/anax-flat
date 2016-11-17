@@ -3,6 +3,8 @@ Om webbplatsen och kursen design
 
 Webbplatsen är en del av kursen design på Blekinge Tekniska Högskola och används för kursens uppgifter.
 
+[Temats GitHub repro](https://github.com/Marv2/anax-flat-theme)
+
 [Webbplatsens GitHub repro](https://github.com/Marv2/anax-flat)
 
 
