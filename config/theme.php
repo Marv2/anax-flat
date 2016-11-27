@@ -84,6 +84,7 @@ return [
             "data" => [],
             "sort" => 1
         ],
+
         [
             "region" => "footer",
             "template" => "default/columns",

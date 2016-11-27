@@ -27,11 +27,25 @@ return [
                 "title" => t("Om webbplatsen")
             ],
 
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Sida som visar grid")
+            ],
+
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Sida som typografi")
+            ],
+
+            /*
             "test" => [
                 "text"  => t("Test2"),
                 "url"   => $this->di->get("url")->create("test"),
                 "title" => t("En testsida")
             ],
+            */
         ],
     ],
 
@@ -62,11 +76,20 @@ return [
                 "title" => t("About this website")
             ],
 
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Sida som visar grid")
+            ],
+
+            /*
+
             "test" => [
                 "text"  => t("Test2"),
                 "url"   => $this->di->get("url")->create("test"),
                 "title" => t("En testsida")
             ],
+            */
         ],
     ],
 
